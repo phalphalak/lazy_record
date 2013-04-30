@@ -1,0 +1,1 @@
+([:dependencies [[org.clojure/clojure "1.4.0"] [clojureql "1.0.4"] [sqlitejdbc "0.5.6"]]])
